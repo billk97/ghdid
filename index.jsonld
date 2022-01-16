@@ -15,8 +15,8 @@
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "x": "somethib",
-        "y": "something"
+        "x":"Ru7qgsWhmceAt13gwzEEmNs3Wvunfo2T_2-He7K_pmg",
+        "y":"BHmuBPmcn8VpBGETXlAsKaANxGF0yZWanij7LQ2yC1c"
       }
     }
   ]
